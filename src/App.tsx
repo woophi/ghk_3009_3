@@ -24,16 +24,16 @@ const vars = [
     img: current,
   },
   {
+    title: 'Минималистичный',
+    img: min,
+  },
+  {
     title: 'Приглушили цвета',
     img: lesscolors,
   },
   {
     title: 'Без картинок',
     img: noimgs,
-  },
-  {
-    title: 'Минималистичный',
-    img: min,
   },
 ];
 
